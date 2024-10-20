@@ -60,7 +60,7 @@ Alternatively, you can run the project using a local server (e.g., Live Server i
 
 ### Video Demo
 Watch the demo of the Smart Vision System UI here:
-[![Watch the video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[![Watch the video](smart vision demo.mp4)
 
 Click above to watch the video demo of the project.
 
