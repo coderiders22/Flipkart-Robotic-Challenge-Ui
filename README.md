@@ -59,8 +59,7 @@ Alternatively, you can run the project using a local server (e.g., Live Server i
    - Click the "START" button under the "Fruit/Vegetable Detection" section to start predicting fruits or vegetables. The detected prediction will be displayed.
 
 ### Video Demo
-Watch the demo of the Smart Vision System UI here:
-[![Watch the video](https://github.com/coderiders22/Flipkart-Robotic-Challenge-Ui/blob/0cba9d62f728a9fb80d2d00caf274366e6ca0742/smart%20vision%20demo.mp4)
+Watch the demo of the Smart Vision System UI by downloading or viewing the video [here](https://github.com/coderiders22/Flipkart-Robotic-Challenge-Ui/blob/main/images/Video/smart.mp4).
 
 Click above to watch the video demo of the project.
 
