@@ -9,7 +9,7 @@ This project is a submission for the **Flipkart Robotics Challenge**. It showcas
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Video Demo](#video-demo)
+- [Project Demo](#Project-demo)
 - [Project Structure](#project-structure)
 - [License](#license)
 
@@ -58,11 +58,11 @@ Alternatively, you can run the project using a local server (e.g., Live Server i
 2. **Fruit/Vegetable Detection**:
    - Click the "START" button under the "Fruit/Vegetable Detection" section to start predicting fruits or vegetables. The detected prediction will be displayed.
 
-### Video Demo
+### Project Demo
 
 ![Smart Vision System UI Demo](https://github.com/coderiders22/Flipkart-Robotic-Challenge-Ui/blob/710e5f392540c9e9435f252dd12cf309737a2b61/Smart%20Vision%20demo.png)
 
-Click [here]([https://github.com/coderiders22/Flipkart-Robotic-Challenge-Ui/blob/main/images/Video/smart.mp4](https://github.com/coderiders22/Flipkart-Robotic-Challenge-Ui/blob/710e5f392540c9e9435f252dd12cf309737a2b61/smart%20vision%20demo.mp4)) to watch the video demo of the Smart Vision System UI.
+Click [here](https://github.com/coderiders22/Flipkart-Robotic-Challenge-Ui/blob/710e5f392540c9e9435f252dd12cf309737a2b61/smart%20vision%20demo.mp4)) to watch the video demo of the Smart Vision System UI.
 
 
 ## Project Structure
