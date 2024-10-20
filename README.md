@@ -60,7 +60,7 @@ Alternatively, you can run the project using a local server (e.g., Live Server i
 
 ### Video Demo
 
-![Smart Vision System UI Demo]([https://github.com/coderiders22/Flipkart-Robotic-Challenge-Ui/blob/main/images/demo-thumbnail.png](https://github.com/coderiders22/Flipkart-Robotic-Challenge-Ui/blob/710e5f392540c9e9435f252dd12cf309737a2b61/Smart%20Vision%20demo.png))
+![Smart Vision System UI Demo](https://github.com/coderiders22/Flipkart-Robotic-Challenge-Ui/blob/710e5f392540c9e9435f252dd12cf309737a2b61/Smart%20Vision%20demo.png)
 
 Click [here]([https://github.com/coderiders22/Flipkart-Robotic-Challenge-Ui/blob/main/images/Video/smart.mp4](https://github.com/coderiders22/Flipkart-Robotic-Challenge-Ui/blob/710e5f392540c9e9435f252dd12cf309737a2b61/smart%20vision%20demo.mp4)) to watch the video demo of the Smart Vision System UI.
 
